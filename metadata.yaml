@@ -10,6 +10,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/41360
 description: 'Contents: 1st series. The families Sphingidae to Noctuidae. - 2d series.
   The families Noctuidae to Hepialidae.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41782#The-Moths-of-the-British-Isles-First-SeriesComprising-the-Families-Sphingidae-to-Noctuidae
 gutenberg_issued: '2013-01-05'
 gutenberg_type: Text
 identifiers:
